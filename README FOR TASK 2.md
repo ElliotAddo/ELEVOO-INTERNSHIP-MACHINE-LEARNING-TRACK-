@@ -24,6 +24,7 @@ This project applies unsupervised machine learning to cluster customers into dis
 📊 **Results**
 
 * Customers are successfully segmented into distinct groups based on their income and spending behavior.
+* A dendogram was plotted as well
 * 2D scatter plots highlight the clusters, showing clear separation of customer categories.
 * The optimal number of clusters ensures meaningful segmentation for marketing insights.
 
