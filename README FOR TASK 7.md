@@ -27,6 +27,7 @@ This project builds a machine learning solution to forecast future sales using t
 * Pandas
 * Matplotlib
 * Scikit-learn
+* XG BOOST
 
 ## Results
 
