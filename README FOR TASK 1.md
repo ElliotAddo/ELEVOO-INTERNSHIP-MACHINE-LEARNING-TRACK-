@@ -1,4 +1,4 @@
-**Student Score Prediction**
+# **Student Score Prediction**
 
 This project builds a predictive model to estimate students' exam scores based on study hours, using the Student Performance Factors dataset from Kaggle. The workflow includes data cleaning, visualization, linear regression modeling, and evaluation of prediction performance.
 
